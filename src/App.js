@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          MEGA KACKE!
+          MEGA KACKE! feature meature dies das
         </p>
         <a
           className="App-link"
